@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true],
-['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', true]
+['6288804947282', 'Humanz', true],
+['6288804947282', 'Humanz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166285'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6288804947282'
+global.nomorown = '628538282'
+global.nomorown1 = '6288804947285'
+global.nomorown2 = '6288804947282'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.author = 'Created By Humanz'
+global.namebot = 'GojoBotzMD'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Humanz'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ '
+global.wm2 = 'GojoBotzMD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`
-global.stickpack = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ 𝐗 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.titlebot = `GojoBotzMD✓ 𝐗 Humanz`
+global.stickpack = 'GojoBotzMD✓ 𝐗 Humanz'
 global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.nameown2 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nameown1= 'Humanz'
+global.nameown2 = 'GojoBotzMD'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
@@ -78,18 +78,18 @@ global.lynk = 'https://lynk.id/kahfi.xd'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/kahfiofc0'
-global.sgh = 'https://github.com/Frezzy-XD' //github
+global.sgh = 'https://github.com/OrochimaruBotz' //github
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0853-8016-6282'
+global.pdana = '0888-0494-7282'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.ppulsa = '088804947282'
+global.ppulsa2 = '088804947282'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 
