@@ -45,8 +45,8 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '6288804947282'
-global.nomorown = '628538282'
-global.nomorown1 = '6288804947285'
+global.nomorown = '6288804947282'
+global.nomorown1 = '6288804947282'
 global.nomorown2 = '6288804947282'
 global.nomorwa = '0'
 
@@ -65,7 +65,7 @@ global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `GojoBotzMD✓ 𝐗 Humanz`
 global.stickpack = 'GojoBotzMD✓ 𝐗 Humanz'
-global.stickauth = `© ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ MD`
+global.stickauth = `©GojoBotzMD✓`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
