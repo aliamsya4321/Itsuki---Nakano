@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://telegra.ph/file/75b17b1b35154d2fbd8da.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/74fd38ef7cf0b70839de2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Maxxy-Botz</h1>
+<h1 align="center">GojoBotzMDV1</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285295374964) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285380166282) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
 ---------
 
 ## ```Heroku Buildpack```
@@ -25,8 +25,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Frezzy-XD/Maxxy-Botz
-$ cd Maxxy-Botz
+$ git clone https://github.com/OrochimaruBotz/GijoBotzMDV1
+$ cd GojoBotzMDV1
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Hyuura-Official/YushinoMdV3#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -68,8 +68,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Frezzy-XD/Maxxy-Botz
-cd Maxxy-Botz
+git clone https://github.com/OrochimaruBotz/GojoBotzMDV1
+cd GojoBotzMDV1
 npm install
 npm update
 ```
@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Frezzy-XD/Maxxy-Botz
-cd Maxxy-Botz
+git https://github.com/OrochimaruBotz/GojoBotzMDV1
+cd GojoBotzMDV1
 npm install
 npm update
 ```
@@ -112,8 +112,8 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : HumanzzZ
+𝐖𝐚 : 088804947282
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -143,6 +143,5 @@ node .
 ⭝ 𝑭𝒂𝑱𝒂𝒓
 ⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ Frazzy-XD
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝑻𝒐𝒏
 ```
