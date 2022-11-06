@@ -293,7 +293,7 @@ export async function handler(chatUpdate) {
                 if (!('welcome' in chat))
                     chat.welcome = true
                 if (!('detect' in chat))
-                    chat.detect = false
+                    chat.detect = true
                 if (!('sWelcome' in chat))
                     chat.sWelcome = ''
                 if (!('sBye' in chat))
@@ -311,7 +311,7 @@ export async function handler(chatUpdate) {
                 if (!('antiBadword' in chat)) 
                     chat.antiBadword = false
                 if (!('simi' in chat))
-                    chat.simi = false
+                    chat.simi = true
                 if (!('nsfw' in chat))
                     chat.nsfw = false
                 if (!('premnsfw' in chat))
@@ -322,16 +322,16 @@ export async function handler(chatUpdate) {
                 global.db.data.chats[m.chat] = {
                     isBanned: false,
                     welcome: true,
-                    detect: false,
+                    detect: true,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
                     antiLink: true,
-                    viewonce: false,
+                    viewonce: true,
                     antiBadword: true,
-                    simi: false,
+                    simi: true,
                     expired: 0,
                     nsfw: false,
                     premnsfw: false,
@@ -342,13 +342,13 @@ export async function handler(chatUpdate) {
                 if (!('self' in settings)) settings.self = false
                 if (!('autoread' in settings)) settings.autoread = true
                 if (!('restrict' in settings)) settings.restrict = true
-                if (!('jadibot' in settings)) settings.jadibot = false
+                if (!('jadibot' in settings)) settings.jadibot = true
                 if (!('autorestart' in settings)) settings.autorestart = true
                 if (!('restartDB' in settings)) settings.restartDB = 0
             } else global.db.data.settings[this.user.jid] = {
                 self: false,
                 autoread: true,
-                jadibot: false,
+                jadibot: true,
                 restrict: true,
                 autorestart: true,
                 restartDB: 0
