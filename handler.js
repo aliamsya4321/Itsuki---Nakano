@@ -311,7 +311,7 @@ export async function handler(chatUpdate) {
                 if (!('antiBadword' in chat)) 
                     chat.antiBadword = false
                 if (!('simi' in chat))
-                    chat.simi = true
+                    chat.simi = false
                 if (!('nsfw' in chat))
                     chat.nsfw = false
                 if (!('premnsfw' in chat))
@@ -331,7 +331,7 @@ export async function handler(chatUpdate) {
                     antiLink: true,
                     viewonce: true,
                     antiBadword: true,
-                    simi: true,
+                    simi: false,
                     expired: 0,
                     nsfw: false,
                     premnsfw: false,
