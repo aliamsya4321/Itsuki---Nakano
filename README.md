@@ -25,7 +25,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/OrochimaruBotz/GijoBotzMDV1
+$ git clone https://github.com/OrochimaruBotz/GojoBotzMDV1
 $ cd GojoBotzMDV1
 $ npm i 
 ```
