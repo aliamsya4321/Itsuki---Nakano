@@ -257,8 +257,17 @@ setTimeout(resolve, 1000)
 let mpt = clockString(_mpt)
 const sections = [
 {
-title: `⃟⟣⟚⟝ ⟡ List Menu ${namebot} ⟡ ⟞⟚⟢⃟`,
+title: `⃟⟣⟚⟝ ⟡ Support Me ${namebot} ⟡ ⟞⟚⟢⃟`,
 rows: [
+	{title: `💌 OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
+	{title: `📔 SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
+        {title: `🔖 SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa BOT"},
+        {title: `🌟 BUY PREMIUM`, rowId: ".premium", description: "Menampilkan list harga premium"},
+        {title: `💹 DONASI`, rowId: ".donasi", description: 'Support BOT agar lebih fast respon'},
+    },{
+    title: `⃟⟣⟚⟝ ⟡ List Menu ${namebot} ⟡ ⟞⟚⟢⃟`,
+rows: [
+]
 	{title: `💬 All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
         {title: `🌱 Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
 	{title: `✨ Exp`, rowId: ".? xp", description: "Ayo tingkatkan pangkat mu!"},
@@ -282,16 +291,6 @@ rows: [
 	{title: `🛠️ Tools`, rowId: ".? tools", description: "Mungkin tools ini bisa membantu?"},
 	{title: `ℹ️ Info`, rowId: ".? info", description: "Info info BOT"},
 	{title: `👩‍💻 Owner`, rowId: ".? owner", description: "Owner Only!"},
-]
-}, {
-title: `⃟⟣⟚⟝ ⟡ Support Me ${namebot} ⟡ ⟞⟚⟢⃟`,
-rows: [
-            {title: `🌟 SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon BOT"},
-	    {title: `💌 OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 SCRIPT BOT`, rowId: ".sc", description: `Source Code ${namebot}`},
-            {title: `🔖 SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa BOT"},
-	    {title: `🌟 BUY PREMIUM`, rowId: ".premium", description: "Menampilkan list harga premium"},
-            {title: `💹 DONASI`, rowId: ".donasi", description: 'Support BOT agar lebih fast respon'},
 ]}]
 let psan = 'bagaimana kabarmu?'
 let usrs = db.data.users[m.sender]
@@ -480,12 +479,12 @@ ptt: false, seconds: 0,contextInfo: {
     description: sgc,
     title: "Kᴛɪᴋ .sᴏᴜɴᴅᴍᴇɴᴜ ᴜɴᴛᴋ ʏɢ ʟᴀɪɴ",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/d2c93968ebaecd4b9a695.jpg')).buffer(),
     sourceUrl: sgc
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/d2c93968ebaecd4b9a695.jpg')).buffer()*/
 }
      }
     })
@@ -518,7 +517,7 @@ let almenu = `┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
 │◇ Dᴀᴛᴀʙᴀsᴇ: ${totalreg}
 ╰╸╳`
 let nomorwa = '0'
-let nomorowm1 = '6285380166282'
+let nomorowm1 = '6282123019956'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -538,7 +537,7 @@ conn.reply(m.chat, 'Maaf, menu sedang error', m)
 throw e
 }
 }
-handler.command = /^(tesm|\?)$/i
+handler.command = /^(menu|\?)$/i
 
 handler.register = false
 handler.exp = 3
@@ -573,7 +572,7 @@ function ucapan() {
 const time = moment.tz('Asia/Jakarta').format('HH')
 let res = "Sudah Dini Hari Kok Belum Tidur Kak? 🥱"
 if (time >= 4) {
-res = "Pagi Lord 🌄"
+res = "Pagi Kak 🌄"
 }
 if (time >= 10) {
 res = "Selamat Siang Kak ☀️"
