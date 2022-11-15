@@ -1,3 +1,10 @@
+/** MAU BANYAK LAGI FITUR NYA 
+* CREATOR BY FIKRIISKY
+* RECODE SENDIRI BANH JANGAN MAU ENAK AJA
+* NOTE MASIH ADA BUG STIKER DAN LAIN 
+**/
+
+
 let { generateWAMessageFromContent } = (await import("@adiwajshing/baileys"))
 import { promises } from 'fs'
 import { join } from 'path'
