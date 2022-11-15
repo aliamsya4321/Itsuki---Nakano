@@ -318,10 +318,7 @@ let tagnya = `@${m.sender.split`@`[0]}`
 ┊↬✗• *ᴇxᴘɪʀᴇᴅ ᴘʀᴇᴍɪᴜᴍ:*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `*/
-let con = `┏━━━━━━━━━━━━━━━━━━━┓
-┆     List Menu ${namebot}
-┖┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┛
-┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
+let con = `┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
 ┆ Hᴀʟᴏ ${tagnya}
 ┢╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╼
 ┣╌ ⟪ *Yᴏᴜʀ Iɴғᴏ* ⟫
@@ -331,11 +328,7 @@ let con = `┏━━━━━━━━━━━━━━━━━━━┓
 ┃▷ *Rᴏʟᴇ* : ${usrs.role}
 ┃▷ *Lɪᴍɪᴛ* : ${usrs.limit}
 ┃▷ *Lᴇᴠᴇʟ* : ${usrs.limit}
-╰╴╴╴╳
-▎▍▌▋▊▍▋▍▌▌▌▋▍▎▎▍▍▎▎▎▎▍
-╭╴╴╼╳
-│◇ Aʟʟ Fɪᴛᴜʀ: ${totalf}
-╰╸╳`
+╰╴╴╴╳`
 let hariRayaramadan = new Date('April 21, 2023 23:59:59') 
      let sekarangg = new Date().getTime() 
      let lebih = hariRayaramadan - sekarangg 
