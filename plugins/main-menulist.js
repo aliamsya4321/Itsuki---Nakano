@@ -264,10 +264,10 @@ rows: [
         {title: `🔖 SEWA`, rowId: ".sewa", description: "Menampilkan list harga sewa BOT"},
         {title: `🌟 BUY PREMIUM`, rowId: ".premium", description: "Menampilkan list harga premium"},
         {title: `💹 DONASI`, rowId: ".donasi", description: 'Support BOT agar lebih fast respon'},
+      ]
     },{
     title: `⃟⟣⟚⟝ ⟡ List Menu ${namebot} ⟡ ⟞⟚⟢⃟`,
 rows: [
-]
 	{title: `💬 All`, rowId: ".? all", description: "Menampilkan Semua command BOT"},
         {title: `🌱 Rpg`, rowId: ".? rpg", description: "Game Epic Rpg!"},
 	{title: `✨ Exp`, rowId: ".? xp", description: "Ayo tingkatkan pangkat mu!"},
