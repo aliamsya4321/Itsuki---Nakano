@@ -1,36 +1,31 @@
-let { generateWAMessageFromContent, prepareWAMessageMedia, proto } = (await import('@adiwajshing/baileys')).default
-import moment from 'moment-timezone'
-import fetch from 'node-fetch'
-import fs from 'fs'
-let handler = async (m, { conn, args, usedPrefix, command }) => {
-const messa = await prepareWAMessageMedia({ image: fs.readFileSync('./media/ok.jpg') }, { upload: conn.waUploadToServer })
-const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
-"productMessage": {
-"product": {
-"productImage": messa.imageMessage, 
-"productId": "5489299044451325",
-"title": `Jasa Sewa GojoBotzMD✓`,
-"description": `HALO BANG`,
-"currencyCode": "IDR",
-"bodyText": wm,
-"footerText": wm,
-"priceAmount1000": "3000",
-"productImageCount": 1,
-"firstImageId": 1,
-"salePriceAmount1000": "10000000",
-"retailerId": wm,
-"url": "wa.me/6288804947282"
-},
-"businessOwnerJid": "6288804947282@s.whatsapp.net",
+\\buatan fikriisky
+let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
+let text = `
+┌─「 Donasi • Pulsa 」
+│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Telkomsel:* [${global.ppulsa2}]
+❏────
+┌─「 Donasi • Non Pulsa 」
+│ • *Dana:* [${global.pdana}]
+❏────
+`
+const templateButtons = [
+    {index: 1, urlButton: {displayText: '✨ Saweria', url: psaweria}},
+    {index: 2, urlButton: {displayText: '📷 Instagram', url: sig}},
+    {index: 3, urlButton: {displayText: '🌎 Official Group', url: sgc}},
+    {index: 4, quickReplyButton: {displayText: 'Menu', id: '.menu'}},
+    {index: 5, quickReplyButton: {displayText: 'Owner', id: '.owner'}},
+]
+let tm = {
+text: text,
+footer: global.wm,
+templateButtons: templateButtons,
+image: {url: fla + 'Donasi'}
 }
-}), { userJid: m.chat, quoted: ftroli })    
-
-conn.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
+conn.sendMessage(m.chat, tm, m)
 }
 handler.help = ['donasi']
-handler.tags = ['main']
-handler.command = /^(donasi|donate)$/i
-
-handler.limit = true
+handler.tags = ['info']
+handler.command = /^dona(te|si)$/i
 
 export default handler
