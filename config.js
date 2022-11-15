@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288804947282', 'HumanzzZ', true],
-['6288804947282', 'HumanzzZ', true]
+['6282123019956', '𝐅𝐢𝐤𝐫𝐢𝐢', true],
+['6282123019956', '𝐅𝐢𝐤𝐫𝐢𝐢', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6288804947282'
-global.nomorown = '6288804947282'
-global.nomorown1 = '6288804947282'
-global.nomorown2 = '6288804947282'
+global.nomorbot = '6281515980491'
+global.nomorown = '6282123019956'
+global.nomorown1 = '6282123019956'
+global.nomorown2 = '6282123019956'
 global.nomorwa = '0'
 
 
@@ -56,8 +56,8 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Itsuki - Nakano'
 global.namebot = 'Itsuki - Nakano'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 HumanzzZ'
-global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢'
+global.media = 'https://telegra.ph/file/64ad339d5ac8ba53652c0.jpg'
 global.watermark = wm
 global.wm2 = 'Itsuki - Nakano '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
@@ -94,7 +94,7 @@ global.psaweria = 'https://saweria.co/LordShenn'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 7 Hari IDR 5.000\n├ 2 Minggu IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 1 Minggu IDR 5.000\n├ 1 Bulan IDR 10.000\n├ 2 Bulan IDR 20.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -208,7 +208,7 @@ global.rpg = {
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.zenzkey = 'b8040941f7'
-global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e6b
+global.lolkey = '3c508dcc8d907cdc15404b86' // PUNYA WAHID 357d3c85079c4e0818731e6b
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
