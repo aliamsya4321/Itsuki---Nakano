@@ -41,7 +41,7 @@ conn.send3ButtonDoc(m.chat, `\n\n     *『 Itsuki - Nakano 』*\n\n`, intro + `\
     
 handler.help = ['menu2']
 handler.tags = ['main']
-handler.command = /^(menu|help|co)$/i
+handler.command = /^(menu2|help2|co2)$/i
 handler.register = false
 
 export default handler
