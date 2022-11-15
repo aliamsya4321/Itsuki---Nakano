@@ -319,17 +319,14 @@ let tagnya = `@${m.sender.split`@`[0]}`
 ┊↬✗• *ᴇxᴘɪʀᴇᴅ ᴘʀᴇᴍɪᴜᴍ:*
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `*/
-let con = `┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
-┆ Hᴀʟᴏ ${tagnya}
-┢╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╼
-┣╌ ⟪ *Yᴏᴜʀ Iɴғᴏ* ⟫
-┃▷ *Nᴀᴍᴇ* : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
-┃▷ *Sᴛᴀᴛᴜs* : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
-┃▷ *Pʀᴇᴍɪᴜᴍ* : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
-┃▷ *Rᴏʟᴇ* : ${usrs.role}
-┃▷ *Lɪᴍɪᴛ* : ${usrs.limit}
-┃▷ *Lᴇᴠᴇʟ* : ${usrs.limit}
-╰╴╴╴╳`
+let con = `╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣
+│⬡ *𝑼𝒔𝒆𝒓* : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
+│⬡ *𝑺𝒕𝒂𝒕𝒖𝒔* : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
+│⬡ *𝑷𝒓𝒆𝒎𝒊𝒖𝒎* : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
+│⬡ *𝑹𝒐𝒍𝒆* : ${usrs.role}
+│⬡ *𝑳𝒊𝒎𝒊𝒕* : ${usrs.limit}
+│⬡ *𝑳𝒆𝒗𝒆𝒍* : ${usrs.limit}
+╰─────────────⬣`
 let hariRayaramadan = new Date('April 21, 2023 23:59:59') 
      let sekarangg = new Date().getTime() 
      let lebih = hariRayaramadan - sekarangg 
@@ -337,14 +334,14 @@ let hariRayaramadan = new Date('April 21, 2023 23:59:59')
      let jamm = Math.floor( lebih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60)) 
      let menitt = Math.floor( lebih % (1000 * 60 * 60) / (1000 * 60)) 
      let detikk = Math.floor( lebih % (1000 * 60) / 1000) 
-let tett = `▢ ▱▱▱ ▣► Dᴀᴛᴇ ◄▣ ▱▱▱ ▢ 
-▯▷ *Uᴘᴛɪᴍᴇ* : ${mpt}
-▯▷ *Tɪᴍᴇ* :  ${moment.tz('Asia/Jakarta').format('HH')} H${moment.tz('Asia/Jakarta').format('mm')} M${moment.tz('Asia/Jakarta').format('ss')} S
-▯▷ *Tᴀɴɢɢᴀʟ Isʟᴀᴍ* : ${dateIslamic}
-▢ ▱▱▱▱▱▱▱▱▱▱▱▱ ▢
+let tett = `┌──〔  𝐓 𝐎 𝐃 𝐀 𝐘  〕───⬣
+│⬡ 𝚄𝙿𝚃𝙸𝙼𝙴 : ${mpt}
+│⬡ 𝚃𝙸𝙼𝙴 : *%time*
+│⬡ 𝚃𝙸𝙼𝙴:  ${moment.tz('Asia/Jakarta').format('HH')} H${moment.tz('Asia/Jakarta').format('mm')} M${moment.tz('Asia/Jakarta').format('ss')} S
+│⬡ 𝙳𝙰𝚃𝙴 𝙸𝚂𝙻𝙰𝙼𝙸𝙲 : ${dateIslamic}
+╰─────────────⬣
 `
-let fot = `Nᴏᴛᴇ!! : Jɪᴋᴀ Aɴᴅᴀ Mᴇɴᴇᴍᴜᴋᴀɴ Bᴜɢ/Eʀʀᴏʀ 
-Bɪsᴀ Rᴇᴘᴏʀᴛ Dᴇɴɢᴀɴ Cᴀʀᴀ ▻ ketik #report 
+let fot = `𝑵𝒐𝒕𝒆!! 𝑱𝒊𝒌𝒂 𝑨𝒏𝒅𝒂 𝑴𝒆𝒏𝒆𝒎𝒖𝒌𝒂𝒏 𝑩𝒖𝒈/𝑬𝒓𝒐𝒓 𝑺𝒆𝒈𝒆𝒓𝒂 𝑳𝒂𝒑𝒐𝒓 𝑲𝒆 𝑶𝒘𝒏𝒆𝒓 𝑨𝒈𝒂𝒓 𝑪𝒆𝒑𝒂𝒕 𝑫𝒊 𝑷𝒆𝒓𝒃𝒂𝒊𝒌𝒊 𝑻𝒆𝒓𝒊𝒎𝒂𝒌𝒂𝒔𝒊𝒉 :)
 `
 const listMessage = {
 text: tett,
@@ -492,17 +489,14 @@ ptt: false, seconds: 0,contextInfo: {
 
 //------------------ menuny
 let ownernya = `@${nomorown.split`@`[0]}`
-let almenu = `┏┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╼
-┆ Hᴀʟᴏ ${tagnya}
-┢╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╼
-┣╌ ⟪ *Yᴏᴜʀ Iɴғᴏ* ⟫
-┃▷ *Nᴀᴍᴇ* : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
-┃▷ *Sᴛᴀᴛᴜs* : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
-┃▷ *Pʀᴇᴍɪᴜᴍ* : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
-┃▷ *Rᴏʟᴇ* : ${usrs.role}
-┃▷ *Lɪᴍɪᴛ* : ${usrs.limit}
-┃▷ *Lᴇᴠᴇʟ* : ${usrs.limit}
-┃▷ *Mᴏɴᴇʏ* : ${money}
+let almenu = `╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣
+│⬡ 𝚄𝚂𝙴𝚁 : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
+│⬡ *Sᴛᴀᴛᴜs* : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
+│⬡ *Pʀᴇᴍɪᴜᴍ* : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
+│⬡ *Rᴏʟᴇ* : ${usrs.role}
+│⬡ *Lɪᴍɪᴛ* : ${usrs.limit}
+│⬡ *Lᴇᴠᴇʟ* : ${usrs.limit}
+│⬡ *Mᴏɴᴇʏ* : ${money}
 ╰╴╴╴╳
 ▎▍▌▋▊▍▌▌▋▍▊▋▐▍▊▊▊▍▍
 ╭╴╴╼ ▻ *INFO BOT* ◅ ╾╶ ╮
