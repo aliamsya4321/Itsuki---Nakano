@@ -54,47 +54,47 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Humanz'
-global.namebot = 'GojoBotzMD'
+global.author = 'Created By Itsuki - Nakano'
+global.namebot = 'Itsuki - Nakano'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 HumanzzZ'
 global.media = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
 global.watermark = wm
-global.wm2 = 'GojoBotzMD '
+global.wm2 = 'Itsuki - Nakano '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `GojoBotzMD`
+global.titlebot = `Itsuki - Nakano`
 global.stickpack = 'Made By'
-global.stickauth = `HumanzzZ`
+global.stickauth = `Itsuki - Nakano`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'HumanzzZ'
-global.nameown2 = 'GojoBotzMD'
+global.nameown1= 'Fikrii'
+global.nameown2 = 'Itsuki - Nakano'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/kahfi.xd'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/humanzboti'
-global.sgh = 'https://github.com/OrochimaruBotz' //github
+global.sig = 'https://instagram.com/Fikriixyz'
+global.sgh = 'https://github.com/Akamaru' //github
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888-0494-7282'
+global.pdana = '082123019956'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088804947282'
-global.ppulsa2 = '088804947282'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '082123019956'
+global.ppulsa2 = '082123019956'
+global.psaweria = 'https://saweria.co/LordShenn'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 7 Hari IDR 5.000\n├ 2 Minggu IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -238,7 +238,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'ebb6251cc00f9c63',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': '3c508dcc8d907cdc15404b86',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -263,10 +263,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.thumb = 'https://telegra.ph/file/d8871673368c51b739d10.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumbs = ['https://telegra.ph/file/d8871673368c51b739d10.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -304,16 +304,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/Frezzy-XD"
+global.urlnya = "https://www.instagram.com/Fikriixyz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '088804947282'
+global.phn = '6282123019956'
 
-global.thumbdoc = 'https://telegra.ph/file/881df749a21bf4c6fbc7d.jpg'
+global.thumbdoc = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.thumbdoc = 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
