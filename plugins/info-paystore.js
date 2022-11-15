@@ -18,8 +18,11 @@ let handler =  m => m.reply(`
 *DANA: 082123019956*
 *GOPAY: 082123019956*
 *PULSA: 082123019956*
+
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
+© 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢
+`.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa', 'premium']
 handler.tags = ['main']
 handler.command = /^(sewa(bot)?|premium)$/i
