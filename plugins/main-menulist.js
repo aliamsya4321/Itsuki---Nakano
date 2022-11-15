@@ -345,7 +345,6 @@ let hariRayaramadan = new Date('April 21, 2023 23:59:59')
      let detikk = Math.floor( lebih % (1000 * 60) / 1000) 
 let tett = `┌──〔  𝐓 𝐎 𝐃 𝐀 𝐘  〕───⬣
 │⬡ 𝚄𝙿𝚃𝙸𝙼𝙴 : ${mpt}
-│⬡ 𝚃𝙸𝙼𝙴 : *%time*
 │⬡ 𝚃𝙸𝙼𝙴:  ${moment.tz('Asia/Jakarta').format('HH')} H${moment.tz('Asia/Jakarta').format('mm')} M${moment.tz('Asia/Jakarta').format('ss')} S
 │⬡ 𝙳𝙰𝚃𝙴 𝙸𝚂𝙻𝙰𝙼𝙸𝙲 : ${dateIslamic}
 ╰─────────────⬣
@@ -499,26 +498,25 @@ ptt: false, seconds: 0,contextInfo: {
 //------------------ menuny
 let ownernya = `@${nomorown.split`@`[0]}`
 let almenu = `╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣
-│⬡ 𝚄𝚂𝙴𝚁 : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
-│⬡ *Sᴛᴀᴛᴜs* : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
-│⬡ *Pʀᴇᴍɪᴜᴍ* : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
-│⬡ *Rᴏʟᴇ* : ${usrs.role}
-│⬡ *Lɪᴍɪᴛ* : ${usrs.limit}
-│⬡ *Lᴇᴠᴇʟ* : ${usrs.limit}
-│⬡ *Mᴏɴᴇʏ* : ${money}
-╰╴╴╴╳
-▎▍▌▋▊▍▌▌▋▍▊▋▐▍▊▊▊▍▍
-╭╴╴╼ ▻ *INFO BOT* ◅ ╾╶ ╮
-│◇ Aʟʟ Fɪᴛᴜʀ: ${totalf}
-│◇ Oᴡɴᴇʀ: ${ownernya}
-│◇ Mᴏᴅᴇ: ${mode}
-│◇ Pʟᴀᴛғᴏʀᴍ: ${platform}
-│◇ Tʏᴘᴇ: Nodejs 
-│◇ Bᴀɪʟᴇʏs: Multi Device
-│◇ Pʀᴇғɪx: ${_p}
-│◇ Uᴘᴛɪᴍᴇ: ${mpt} 
-│◇ Dᴀᴛᴀʙᴀsᴇ: ${totalreg}
-╰╸╳`
+│⬡ 𝑼𝒔𝒆𝒓 : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
+│⬡ 𝑺𝒕𝒂𝒕𝒖𝒔 : ${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}
+│⬡ 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 : ${usrs.premiumTime > 1 ? '✔ Ya': '✘ Tidak'}
+│⬡ 𝑹𝒐𝒍𝒆 : ${usrs.role}
+│⬡ 𝑳𝒊𝒎𝒊𝒕 : ${usrs.limit}
+│⬡ 𝑳𝒆𝒗𝒆𝒍 : ${usrs.limit}
+│⬡ 𝑴𝒐𝒏𝒆𝒚 : ${money}
+╰─────────────⬣
+
+╭──〔 𝑰𝒏𝒇𝒐 𝑩𝒐𝒕  〕─⬣
+│⬡ 𝑶𝒘𝒏𝒆𝒓: ${ownernya}
+│⬡ 𝑴𝒐𝒅𝒆: ${mode}
+│⬡ 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎: ${platform}
+│⬡ 𝑻𝒚𝒑𝒆: Nodejs 
+│⬡ 𝑩𝒂𝒊𝒍𝒆𝒚𝒔: Multi Device
+│⬡ 𝑷𝒓𝒆𝒇𝒊𝒙: ${_p}
+│⬡ 𝑼𝒑𝒕𝒊𝒎𝒆: ${mpt} 
+│⬡ 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆: ${totalreg}
+╰─────────────⬣`
 let nomorwa = '0'
 let nomorowm1 = '6282123019956'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
