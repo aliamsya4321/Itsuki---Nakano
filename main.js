@@ -125,14 +125,14 @@ async function connectionUpdate(update) {
     global.timestamp.connect = new Date
   }
   if (global.db.data == null) loadDatabase()
-   if (update.receivedPendingNotifications) conn.sendButtonDoc(`6288804947282@s.whatsapp.net`, 
+   if (update.receivedPendingNotifications) conn.sendButtonDoc(`6282123019956@s.whatsapp.net`, 
 `┏═══════════════════
 ┃╴◈ Bᴏᴛ Tᴇʟᴀʜ Tᴇʀsᴀᴍʙᴜɴɢ
 ┣═══════════════════
 ┃╴▶ Nᴏᴍᴏʀ : ${global.nomorbot}
 ┃╴▶ Nᴀᴍᴇ Bᴏᴛ : ${global.namebot}
 ┖┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬┬
-`, wm, 'Oᴡɴᴇʀ', '.owner', null
+`, wm, 'MENU', '.menu', null
 )
 }
 
