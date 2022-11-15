@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/74fd38ef7cf0b70839de2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/4a26215054d01496712b2.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">GojoBotzMDV1</h1>
+<h1 align="center">Itsuki - Nakano</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
