@@ -227,7 +227,7 @@ if (command == 'sakura') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/sakura?apikey=APIKEY`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}
 if (command == 'tsunade') {
-let haha = await conn.getfile(`https://zenzapis.xyz/randomanime/v2/tsunade?apikey=a5652f2864`)
+let haha = await conn.getFile(`https://zenzapis.xyz/randomanime/v2/tsunade?apikey=a5652f2864`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}
 if (command == 'cosplay') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey`)
