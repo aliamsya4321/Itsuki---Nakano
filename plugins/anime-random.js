@@ -225,12 +225,15 @@ let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)} 
 if (command == 'sakura') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/sakura?apikey=APIKEY`)
-conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}  
+conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}
+if (command == 'tsunade') {
+let haha = await conn.getfile(`https://zenzapis.xyz/randomanime/v2/tsunade?apikey=a5652f2864`)
+conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}
 if (command == 'cosplay') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}     
 }
-handler.command = handler.help = ['akira', 'akiyama', 'anna', 'asuna', 'ayuzawa', 'boruto', 'chiho', 'chitoge', 'deidara', 'erza', 'elaina', 'eba', 'emilia', 'hestia', 'hinata', 'inori', 'isuzu', 'itachi', 'itori', 'kaga', 'kagura', 'kaori', 'keneki', 'kotori', 'kurumi', 'madara', 'mikasa', 'miku', 'minato', 'naruto', 'nezuko', 'sagiri', 'sasuke', 'sakura', 'cosplay']
+handler.command = handler.help = ['akira', 'akiyama', 'anna', 'asuna', 'ayuzawa', 'boruto', 'chiho', 'chitoge', 'deidara', 'erza', 'elaina', 'eba', 'emilia', 'hestia', 'hinata', 'inori', 'isuzu', 'itachi', 'itori', 'kaga', 'kagura', 'kaori', 'keneki', 'kotori', 'kurumi', 'madara', 'mikasa', 'miku', 'minato', 'naruto', 'nezuko', 'sagiri', 'sasuke', 'sakura', 'tsunade', 'cosplay']
 handler.tags = ['anime']
 export default handler
 
