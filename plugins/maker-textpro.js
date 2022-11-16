@@ -73,7 +73,7 @@ let name = await conn.getName(who)
     title: "Iɴɪ Dʜ Sɪᴀᴘ Cᴜʏ 〠",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
-    sourceUrl: `https://wa.me/6281361281833?text=Hᴀɪ+Bɢ+Aʟᴅɪ`
+    sourceUrl: `https://wa.me/6281515980491t?ext=Hᴀɪ+Bɢ+Aʟᴅɪ`
      }}
   })
 }
