@@ -30,17 +30,17 @@ await conn.sendFile(m.chat, audio, 'error.mp3', null, fkontak, true, {
 type: 'audioMessage', 
 ptt: false, seconds: 0,contextInfo: {
          externalAdReply: { showAdAttribution: true,
- mediaUrl: 'www.instagram.com/hyuura-official',
+ mediaUrl: 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx',
     mediaType: 2, 
-    description: 'www.instagram.com/hyuura-official',
+    description: 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer(),
+    thumbnail: await (await fetch('https://telegra.ph/file/ca99960e961e46b14fc58.jpg')).buffer(),
     sourceUrl: 'www.instagram.com/hyuura-official'
- 	  /*   sourceUrl: sig,
+ 	  /*   sourceUrl: sgc,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/ca99960e961e46b14fc58.jpg')).buffer()*/
 }
      }
     })
