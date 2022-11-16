@@ -1,6 +1,5 @@
 /** CREATOR BY FIKRIISKY
-* CREATOR BY FIKRIISKY
-* SCRIPT ORI HARUTOMO
+* SCRIPT ORI HYUUURAA-OFFICIAL
 * MAU BANYAK LAGI FITUR NYA 
 * RECODE SENDIRI BANH JANGAN MAU ENAK AJA
 * NOTE MASIH ADA BUG STIKER DAN LAIN 
@@ -415,7 +414,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 //----------------- FAKE
 let ftoko = {
 key: {
-fromMe: false,
+fromMe: false, 
 participant: `${m.sender.split`@`[0]}` + '@s.whatsapp.net',
 remoteJid: 'status@broadcast',
 },
