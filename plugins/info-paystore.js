@@ -21,6 +21,8 @@ let handler =  m => m.reply(`
 
 🗣️: Kak, Kok harganya mahal banget?
 💬: Mau tawar menawar? boleh, silahkan chat owner aja
+Minat Hubungi Wa.me/6282123019956
+
 © 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa', 'premium']
