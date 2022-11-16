@@ -100,7 +100,7 @@ if (command == 'minato') {
 let haha = await conn.getFile(`https://raw.githubusercontent.com/WH-MODS-BOT/scrape/main/minato.json`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)} 
 if (command == 'naruto') {
-let haha = await conn.getFile(`https://raw.githubusercontent.com/WH-MODS-BOT/scrape/main/naruto.json`)
+let haha = await conn.getFile(`https://raw.githubusercontent.com/Akamaru69/Databasee/main/Random%20Anime/naruto.json`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}    
 if (command == 'nezuko') {
 let haha = await conn.getFile(`https://raw.githubusercontent.com/WH-MODS-BOT/scrape/main/nezuko.json`)
