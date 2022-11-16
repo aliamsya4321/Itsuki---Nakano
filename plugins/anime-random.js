@@ -212,7 +212,7 @@ if (command == 'minato') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/minato?apikey=apirey`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)} 
 if (command == 'naruto') {
-let haha = await conn.getFile(`https://raw.githubusercontent.com/inirey/RESTAPI/master/data/naruto.json`)
+let haha = await conn.getFile(`https://raw.githubusercontent.com/Akamaru69/Databasee/main/Random%20Anime/naruto.json`)
 conn.sendButton(m.chat, `_${command}_`.trim(), author, haha.data, [['🔄 NEXT 🔄', `/${command}`]], m)}    
 if (command == 'nezuko') {
 let haha = await conn.getFile(`https://api-reysekha.herokuapp.com/api/wallpaper/nezuko?apikey=apirey`)
