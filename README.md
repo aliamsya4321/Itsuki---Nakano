@@ -7,12 +7,12 @@ Cuma Benerin Beberapa Fitur yang Eror Dan Merubah Sedikit Tampilan Menu</h1>
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288804947282) 
+[![GRUP BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me6283897538561) 
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyuura-Official/YushinoMdV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akamaru69/Itsuki - Nakano)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -69,8 +69,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/OrochimaruBotz/GojoBotzMDV1
-cd GojoBotzMDV1
+git clone https://github.com/Akamaru69/Itsuki - Nakano
+cd Itsuki - Nakano
 npm install
 npm update
 ```
@@ -85,8 +85,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/OrochimaruBotz/GojoBotzMDV1
-cd GojoBotzMDV1
+git https://github.com/Itsuki - Nakano
+cd Itsuki - Nakano
 npm install
 npm update
 ```
