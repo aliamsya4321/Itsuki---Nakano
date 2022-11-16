@@ -8,7 +8,7 @@ Cuma Benerin Beberapa Fitur yang Eror Dan Merubah Sedikit Tampilan Menu</h1>
 
 
 [![GRUP BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me6283897538561) 
+[![OWNER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281515980491) 
 ---------
 
 ## ```Heroku Buildpack```
