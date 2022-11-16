@@ -31,10 +31,10 @@ let handler = async (m, { conn, args, command }) => {
        }
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
-let scnya = `⟥⟞⟚━┈┈ ❨ Hʏ ${tag} ❩ ┈┈━⟚⟝⟤`
+let scnya = ` Hʏ ${tag} `
     let footerny = `┆📮 *ɴᴏᴛᴇ!* : Jɪᴋᴀ ᴋᴀʟɪᴀɴ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ᴀᴛᴀᴜ ᴄᴏᴘᴀs ᴅᴀʀɪ sᴄʀɪᴘᴛ ɪɴɪ ᴍᴀᴋᴀ ᴄʀᴇᴅɪᴛ ᴅᴀʀɪ sᴄrɪᴘᴛ ɪɴɪ ʜᴀʀᴜs ᴀᴅᴀ.\n┆📑  *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n┆🥊 *Sᴄʀɪᴘᴛ* : https://github.com/OrochimaruBotz/GojoBotzMDV1┆ *Tuh Gratis Untuk User Tersayang, Jan Lupa Follow Gh Gw!*`
- conn.send3ButtonImg(m.chat, `https://telegra.ph/file/bf8b82dc34d14d25e67b8.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://instagram.com/kahfiofc0',
+ conn.send3ButtonImg(m.chat, `https://telegra.ph/file/ca99960e961e46b14fc58.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    mediaUrl: 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx',
     mediaType: 2, 
     description: sgc,
     title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
@@ -55,7 +55,7 @@ function ucapan() {
   const time = moment.tz('Asia/Jakarta').format('HH')
   let res = "Sudah Dini Hari Kok Belum Tidur Kak? 🥱"
   if (time >= 4) {
-    res = "Pagi Lord 🌄"
+    res = "Pagi Kak 🌄"
   }
   if (time >= 10) {
     res = "Selamat Siang Kak ☀️"
