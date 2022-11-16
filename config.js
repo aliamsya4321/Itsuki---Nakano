@@ -90,7 +90,7 @@ global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '083137354143'
 global.ppulsa2 = '083137354143'
-global.psaweria = 'https://saweria.co/LordShenn'
+global.psaweria = ''
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
