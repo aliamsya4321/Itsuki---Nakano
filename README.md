@@ -12,7 +12,7 @@ Cuma Benerin Beberapa Fitur yang Eror Dan Merubah Sedikit Tampilan Menu</h1>
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akamaru69/Itsuki - Nakano)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akamaru69/Itsuki--Nakano)
 
 | BuildPack | LINK |
 |--------|--------|
