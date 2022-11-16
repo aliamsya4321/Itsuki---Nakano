@@ -39,15 +39,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282123019956', '𝐅𝐢𝐤𝐫𝐢𝐢', true],
-['6282123019956', '𝐅𝐢𝐤𝐫𝐢𝐢', true]
+['6281515980491', '𝐅𝐢𝐤𝐫𝐢𝐢', true],
+['6281515980491', '𝐅𝐢𝐤𝐫𝐢𝐢', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281515980491'
-global.nomorown = '6282123019956'
-global.nomorown1 = '6282123019956'
-global.nomorown2 = '6282123019956'
+global.nomorbot = '6283897538561'
+global.nomorown = '6281515980491'
+global.nomorown1 = '6281515980491'
+global.nomorown2 = '6281515980491'
 global.nomorwa = '0'
 
 
@@ -306,7 +306,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/Fikriixyz"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282123019956'
+global.phn = '6281515980491'
 
 global.thumbdoc = 'https://telegra.ph/file/d8871673368c51b739d10.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
