@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281515980491', '𝐅𝐢𝐤𝐫𝐢𝐢', true],
-['6281515980491', '𝐅𝐢𝐤𝐫𝐢𝐢', true]
+['62895330014743', 'Wisnu', true],
+['62895330014743', 'Wisnu', true]
 ]
 global.mods = []
 global.prems = []
@@ -56,7 +56,7 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Itsuki - Nakano'
 global.namebot = 'Yui-Chan'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢'
+global.wm = '© Wisnu-MD'
 global.media = 'https://telegra.ph/file/64ad339d5ac8ba53652c0.jpg'
 global.watermark = wm
 global.wm2 = 'Itsuki - Nakano '
