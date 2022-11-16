@@ -44,10 +44,10 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283897538561'
-global.nomorown = '6281515980491'
-global.nomorown1 = '6281515980491'
-global.nomorown2 = '6281515980491'
+global.nomorbot = '62895330014743'
+global.nomorown = '62895330014743'
+global.nomorown1 = '62895330014743'
+global.nomorown2 = '62895330014743'
 global.nomorwa = '0'
 
 
@@ -55,7 +55,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By Itsuki - Nakano'
-global.namebot = 'Itsuki - Nakano'
+global.namebot = 'Yui-Chan'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐅𝐢𝐤𝐫𝐢𝐢'
 global.media = 'https://telegra.ph/file/64ad339d5ac8ba53652c0.jpg'
 global.watermark = wm
@@ -69,7 +69,7 @@ global.stickauth = `Itsuki - Nakano`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Fikrii'
+global.nameown1= 'Wisnuu'
 global.nameown2 = 'Itsuki - Nakano'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
@@ -84,12 +84,12 @@ global.sdc = '-' //discord
 global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '082123019956'
+global.pdana = '083137354143'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082123019956'
-global.ppulsa2 = '082123019956'
+global.ppulsa = '083137354143'
+global.ppulsa2 = '083137354143'
 global.psaweria = 'https://saweria.co/LordShenn'
 
 
