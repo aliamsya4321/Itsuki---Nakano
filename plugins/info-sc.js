@@ -39,8 +39,14 @@ let handler = async (m, { conn, args, command }) => {
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
 let scnya = ` 𝑯𝒂𝒍𝒍𝒐 ${tag} 𝑳𝒂𝒈𝒊 𝑵𝒚𝒂𝒓𝒊 𝑺𝑪 𝒀𝒂`
-    let footerny = `📮 *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n
-📮 *Sᴄʀɪᴘᴛ* : https://github.com/Akamaru69/Itsuki---Nakano
+    let footerny = `╭═[ *SCRIPT* ]═────···
+┴
+│ 𝐒𝐜𝐫𝐢𝐩𝐭 : 𝑩𝒂𝒔𝒆
+│ ╰ https://github.com/Hyuura-Official/YushinoMdV3
+│ 𝐑𝐞𝐜𝐨𝐝𝐞 : 𝑭𝒊𝒌𝒓𝒊𝒊
+│ ╰ https://github.com/Akamaru69/Itsuki---Nakano
+┬
+╰──────────═┅═──────────
 📮 𝑺&𝑲
 𝑱𝒂𝒏𝒈𝒂𝒏 𝒅𝒊𝒑𝒆𝒓𝒋𝒖𝒂𝒍 𝒃𝒆𝒍𝒊𝒌𝒂𝒏 𝑺𝒄𝒓𝒊𝒑𝒕 𝒊𝒏𝒊
 𝑺𝒆𝒃𝒆𝒍𝒖𝒎 𝒑𝒂𝒌𝒂𝒊 𝒋𝒂𝒏𝒈𝒂𝒏 𝒍𝒖𝒑𝒂 𝒌𝒂𝒔𝒊𝒉 𝒔𝒕𝒂𝒓
