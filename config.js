@@ -81,7 +81,7 @@ global.sig = 'https://instagram.com/Fikriixyz'
 global.sgh = 'https://github.com/Akamaru' //github
 global.sgc = 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = '-'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '082123019956'
