@@ -32,12 +32,17 @@ let handler = async (m, { conn, args, command }) => {
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
 let scnya = ` Hʏ ${tag} `
-    let footerny = `┆📮 *ɴᴏᴛᴇ!* : Jɪᴋᴀ ᴋᴀʟɪᴀɴ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ᴀᴛᴀᴜ ᴄᴏᴘᴀs ᴅᴀʀɪ sᴄʀɪᴘᴛ ɪɴɪ ᴍᴀᴋᴀ ᴄʀᴇᴅɪᴛ ᴅᴀʀɪ sᴄrɪᴘᴛ ɪɴɪ ʜᴀʀᴜs ᴀᴅᴀ.\n┆📑  *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n┆🥊 *Sᴄʀɪᴘᴛ* : https://github.com/OrochimaruBotz/GojoBotzMDV1┆ *Tuh Gratis Untuk User Tersayang, Jan Lupa Follow Gh Gw!*`
- conn.send3ButtonImg(m.chat, `https://telegra.ph/file/ca99960e961e46b14fc58.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+    let footerny = `📮 *ɴᴏᴛᴇ!* : 𝙅ɪᴋᴀ ᴋᴀʟɪᴀɴ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ᴀᴛᴀᴜ ᴄᴏᴘᴀ𝙨 ᴅᴀʀɪ 𝙨ᴄʀɪᴘᴛ ɪɴɪ ᴍᴀᴋᴀ ᴄʀᴇᴅɪᴛ ᴅᴀʀɪ 𝙨ᴄ𝙧ɪᴘᴛ ɪɴɪ ʜᴀʀᴜ𝙨 ᴀᴅᴀ.\n┆📑  *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n┆🥊 *Sᴄʀɪᴘᴛ* : https:/)github.com/Akamaru69/Itsuki - Nakano *Tuh Gratis, 📮 𝑺&𝑲
+𝑱𝒂𝒏𝒈𝒂𝒏 𝒅𝒊𝒑𝒆𝒓𝒋𝒖𝒂𝒍 𝒃𝒆𝒍𝒊𝒌𝒂𝒏 𝑺𝒄𝒓𝒊𝒑𝒕 𝒊𝒏𝒊
+𝑺𝒆𝒃𝒆𝒍𝒖𝒎 𝒑𝒂𝒌𝒂𝒊 𝒋𝒂𝒏𝒈𝒂𝒏 𝒍𝒖𝒑𝒂 𝒌𝒂𝒔𝒊𝒉 𝒔𝒕𝒂𝒓
+𝑭𝒐𝒍𝒍𝒐𝒘 𝑮𝒊𝒕𝒉𝒖𝒃 !
+𝑱𝒂𝒏𝒈𝒂𝒏 𝒔𝒂𝒍𝒂𝒉 𝒈𝒖𝒏𝒂𝒌𝒂𝒏 𝒔𝒄𝒓𝒊𝒑𝒕 𝒊𝒏𝒊!
+`
+ conn.send3ButtonImg(m.chat, `https://telegra.ph/file/ca99960e961e46b14fc58.jpg`, scnya, footerny, 'Menu', '.menu', 'Owner', '.owner', 'Donasi', '.donasi', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://chat.whatsapp.com/DQImxkVI5Z84mUrNO5LzFx',
     mediaType: 2, 
     description: sgc,
-    title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
+    title: "𝑱𝒐𝒊𝒏 𝑺𝒊𝒏𝒊 𝑩𝒂𝒏𝒉",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc
