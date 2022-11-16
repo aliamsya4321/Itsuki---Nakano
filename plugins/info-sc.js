@@ -1,3 +1,10 @@
+/*
+ * ngelarang lu biar g diubah kyknya emg susah ya anjg
+ * jadi kalau lu g bsa ngehargain orang
+ * setidaknya buat sc ori by gw, trs buat sc lu hasil copas tuh
+ * better bgtu dripada nma gw dihapus smua
+ * najis 👎🗿
+*/
 
 import fs from 'fs'
 import fetch from 'node-fetch'
@@ -32,7 +39,9 @@ let handler = async (m, { conn, args, command }) => {
        let tag = `@${m.sender.replace(/@.+/, '')}`
   let mentionedJid = [m.sender]
 let scnya = ` 𝑯𝒂𝒍𝒍𝒐 ${tag} 𝑳𝒂𝒈𝒊 𝑵𝒚𝒂𝒓𝒊 𝑺𝑪 𝒀𝒂`
-    let footerny = `📑  *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n🥊 *Sᴄʀɪᴘᴛ* : https://github.com/Akamaru69/Itsuki - Nakano 📮 𝑺&𝑲
+    let footerny = `📮 *Base* : https://github.com/Hyuura-Official/YushinoMdV3\n
+📮 *Sᴄʀɪᴘᴛ* : https://github.com/Akamaru69/Itsuki---Nakano
+📮 𝑺&𝑲
 𝑱𝒂𝒏𝒈𝒂𝒏 𝒅𝒊𝒑𝒆𝒓𝒋𝒖𝒂𝒍 𝒃𝒆𝒍𝒊𝒌𝒂𝒏 𝑺𝒄𝒓𝒊𝒑𝒕 𝒊𝒏𝒊
 𝑺𝒆𝒃𝒆𝒍𝒖𝒎 𝒑𝒂𝒌𝒂𝒊 𝒋𝒂𝒏𝒈𝒂𝒏 𝒍𝒖𝒑𝒂 𝒌𝒂𝒔𝒊𝒉 𝒔𝒕𝒂𝒓
 𝑭𝒐𝒍𝒍𝒐𝒘 𝑮𝒊𝒕𝒉𝒖𝒃 !
