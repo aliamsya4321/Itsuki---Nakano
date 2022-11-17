@@ -5,7 +5,7 @@ let handler = async (m, { conn, command }) => {
 		conn.sendButton(m.chat, 'Wibu stress', wm, await(await fetch(url)).buffer(), [['Next',`.${command}`]],m)
 		}
 		handler.command = /^(cuckoid)$/i
-		handler.tags = ['anime']
+		handler.tags = ['nsfw']
 		handler.help = ['cuckoid']
 		handler.limit = true
 export default handler
